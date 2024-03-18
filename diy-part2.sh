@@ -18,10 +18,10 @@ git clone -b master --single-branch --filter=blob:none https://github.com/vernes
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
 
 # MosDNS
-git clone --depth=1 https://github.com/sbwml/luci-app-mosdns package/luci-app-mosdns
+#git clone --depth=1 https://github.com/sbwml/luci-app-mosdns package/luci-app-mosdns
 
 # Alist
-git clone --depth=1 https://github.com/sbwml/luci-app-alist package/luci-app-alist
+#git clone --depth=1 https://github.com/sbwml/luci-app-alist package/luci-app-alist
 
 # DDNS.to
 git_sparse_clone main https://github.com/linkease/nas-packages-luci luci/luci-app-ddnsto
